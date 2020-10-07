@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![spotify_shot](https://user-images.githubusercontent.com/38415992/95394374-da597580-0958-11eb-9557-67eaef01c362.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
